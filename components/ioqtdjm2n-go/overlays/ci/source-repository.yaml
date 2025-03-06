@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ioqtdjm2n-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ioqtdjm2n-go
